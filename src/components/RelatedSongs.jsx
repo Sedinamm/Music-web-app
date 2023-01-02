@@ -1,9 +1,3 @@
-// const RelatedSongs = () => (
-//   <div>Loader</div>
-// );
-
-// export default RelatedSongs;
-
 import React from 'react';
 
 import SongBar from './SongBar';
